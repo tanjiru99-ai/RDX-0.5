@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "botnickname",
+    name: "joinnoti",
     eventType: ["log:subscribe"],
     version: "1.0.0",
     credits: "SARDAR RDX",
