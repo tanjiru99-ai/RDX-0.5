@@ -1,17 +1,16 @@
 {
-  "BOTNAME": "SARDAR RDX",
-  "BOTNICK": "{ . } × SARDAR RDX",
-  "PREFIX": ".",
+  "BOTNAME": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐁𝐀𝐁𝐄",
+  "BOTNICK": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐁𝐀𝐁𝐄",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "100009012838085",
-    "61582076572381",
-    "100065216344877"
+    "61573781736874",
+    "61584741196930",
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
   "ADMIN_ONLY_MODE": false,
   "AUTO_ISLAMIC_POST": true,
   "AUTO_GROUP_MESSAGE": true,
-  "TIMEZONE": "Asia/Karachi",
+  "TIMEZONE": "Asia/Dhaka",
   "APPROVE_ONLY": false
 }
